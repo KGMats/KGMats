@@ -1,16 +1,53 @@
-# 💫 About Me:
-<h1 align="center">Hi there 👋, I'm Kayky </h1><br><br><p align="center"><br>  🌱 Learner | 💻 Developer | 🎯 Problem Solver<br></p><br><br>---<br><br>### 🧠 About Me<br>- 🔭 I’m currently working on: *Low level graphic computing*<br>- 🌱 I’m currently learning: *GPU processing*<br>- 💬 Ask me about: *Python, React, C++, Data Analysis...*<br>- ⚡ Fun fact: *🔧 I've built and wired industrial electric panels, including QGBTs, from copper bars to final labeling — yes, I know what a DIN rail is.*<br><br>---<br><br>### 🛠️ Tech Stack<br><p><br>  <img src="https://img.shields.io/badge/C%20/%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/><br>  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl"/><br></p><br><br>---<br><br>### 📈 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" height="150"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" height="150"/><br></p><br><br>---<br><br>### 📫 Let's Connect<br><p><br>  <a href="https://www.linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white"/></a><br></p><br><br>---<br><br><p align="center"><br>  🛠️ Built with love and caffeine ☕<br></p><br>
+# 💫 About Me
 
+<h1 align="center">Hi there 👋, I'm KGMats</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayky-gibran-5a3a24350/n) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KGMats&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KGMats&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGMats&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+🌱 Learner | 💻 Developer | 🎯 Problem Solver
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KGMats&icon=1&color=0)](https://visitcount.itsvg.in)
+
+- 🔭 Currently working on: **Low-level graphics computing**
+- 🌱 Currently learning: **GPU processing & OpenGL**
+- 💬 Ask me about: **Python, React, C++, Data Analysis, and embedded tech**
+- ⚡ Fun fact:  
+  🔧 I’ve built and wired industrial electric panels, including QGBTs, from copper bars to final labeling — yes, I know what a **DIN rail** is.
+
+---
+
+### 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KGMats&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGMats&layout=compact&theme=radical" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KGMats&theme=radical&hide_border=false" height="150"/>
+</p>
+
+
+
+<p align="center">
+🛠️ Built with love and caffeine ☕
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=KGMats&icon=1&color=0" />
+</p>
