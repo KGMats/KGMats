@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://githubstats.kgmats.cc/api?username=kgmats&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440" height="150"/>
   <img src="https://githubstats.kgmats.cc/api/top-langs/?username=kgmats&layout=compact&theme=nord&hide_border=true&bg_color=2E3440" height="150"/>
-  <img src="https://streak-stats.kgmats.cc?user=kgmats&theme=nord" height="150"/>
+  <img src="https://streak-stats.kgmats.cc?user=kgmats&theme=nord&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
