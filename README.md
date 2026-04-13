@@ -20,7 +20,7 @@
 
 * **PTD2 Custom Server:** Reverse-engineered a game client (ActionScript bytecode) to build a fully compatible custom backend, ensuring data integrity and reliable protocol communication.
 * **TaskManager TUI:** A lightweight, dependency-free Terminal User Interface application built from scratch in pure Python.
-* **Graph Optimization Engine:** Educational project that tries to solve the NP-hard Target Set Selection problem on large-scale graphs (4.8M+ vertices) using C. Implemented extreme memory optimizations and custom data structures (indexed max heap) to reduce memory usage by 87% and cut execution time from hours to under 5 minutes on large instances.
+* **Graph Optimization Engine:** Educational project that tries to solve the NP-hard Target Set Selection problem on large-scale graphs (4.8M+ vertices) using C. Implemented extreme cpu and memory optimizations using compact data structures to reduce memory usage by 87% and cut execution time from hours to under 5 minutes on large instances.
 ---
 
 ###  Tech Stack
